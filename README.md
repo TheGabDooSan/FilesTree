@@ -1,4 +1,4 @@
 # FilesTree
-Petit programme d'entrainement dans mon apprentissage du Java permettant de générer une arborescence de tous les fichiers d'un dossier de votre ordinateur.
+Small training program in my learning of Java allowing to generate a tree structure of all the files in a folder on your computer.
 
-Fichier `.jar` disponible [ici](https://github.com/TheGabDooSan/FilesTree/tree/master/out/artifacts/Tree_jar).
+`.jar` file available [here](https://github.com/TheGabDooSan/FilesTree/tree/master/out/artifacts/Tree_jar).
